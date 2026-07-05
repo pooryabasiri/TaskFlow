@@ -61,7 +61,7 @@ This project was built to demonstrate:
   https://github.com/pooryabasiri
   
   LinkedIn:
-  https://linkedin.com/in/poorya-basiri
+  https://linkedin.com/in/pooryabasiri
 
 ---
 
